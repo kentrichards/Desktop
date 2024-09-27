@@ -15,15 +15,15 @@ Many buttons don’t meet minimum contrast requirements (minimum recommended for
 
 When focused, certain `select` elements "zoom in", partially obscuring the text.
 
-![Screencast from 2024-09-27 14-37-43.mp4](./UI%20Feedback%20Attachments/Screencast%20from%202024-09-27%2014-37-43.mp4)
+![Screencast from 2024-09-27 14-37-43.mp4](https://drive.google.com/file/d/1utbkfTrTF4i_hb8zGRjAEbeNcH8vPX7i/view?usp=sharing)
 
-![Screencast from 2024-09-27 14-38-45.mp4](./UI%20Feedback%20Attachments/Screencast%20from%202024-09-27%2014-38-45.mp4)
+![Screencast from 2024-09-27 14-38-45.mp4](https://drive.google.com/file/d/1fMp42wve1-5xJy2x6Apz5t3rNhzucTok/view?usp=sharing)
 
 *Inconsistent drop down appearance and behaviour*
 
 There are two kinds of drop down menus here that look and behave differently. Violates "principle of least surprise."
 
-![Screencast from 2024-09-27 14-51-48.mp4](./UI%20Feedback%20Attachments/Screencast%20from%202024-09-27%2014-51-48.mp4)
+![Screencast from 2024-09-27 14-51-48.mp4](https://drive.google.com/file/d/1taBEVzALiCcaRMnfYSvA7CMOJ4Z0_h9J/view?usp=sharing)
 
 *Labels and form controls out of alignment*
 
@@ -31,7 +31,7 @@ There are two kinds of drop down menus here that look and behave differently. Vi
 
 *Drop down menu cut off when table has too few elements*
 
-![Screencast from 2024-09-27 14-57-38.mp4](./UI%20Feedback%20Attachments/Screencast%20from%202024-09-27%2014-57-38.mp4)
+![Screencast from 2024-09-27 14-57-38.mp4](https://drive.google.com/file/d/1BJfupDrI1Khu0pDyeHl3sEUeF7uSnwTo/view?usp=sharing)
 
 *Unclear UI state*
 
@@ -45,13 +45,13 @@ Also, I think "View Incompleted Tasks" is a little awkward. A better label might
 
 Pressing "View Task" opens the task to be edited, and there isn't a "Cancel" or go back button. Confusing behaviour given the original button's name.
 
-![Screencast from 2024-09-27 15-05-36.mp4](./UI%20Feedback%20Attachments/Screencast%20from%202024-09-27%2015-05-36.mp4)
+![Screencast from 2024-09-27 15-05-36.mp4](https://drive.google.com/file/d/1MifdSUonsseD52bEYUTReNxz2I7H6LSt/view?usp=sharing)
 
 *Changing default behaviour of textarea*
 
 The small size change when the textarea is focused is strange to me. More importantly, the default resize behaviour of HTML textareas (controlled by clicking and holding on the button right corner on the input) is being reimplemented in client side JS — resulting in a much slower version of the behaviour HTML gives you for free!
 
-![Screencast from 2024-09-27 15-09-13.mp4](./UI%20Feedback%20Attachments/Screencast%20from%202024-09-27%2015-09-13.mp4)
+![Screencast from 2024-09-27 15-09-13.mp4](https://drive.google.com/file/d/1dZoTkVw9_uROh3SzXFPNkSxZbhMj8pjX/view?usp=sharing)
 
 *Creative Dashboard*
 
