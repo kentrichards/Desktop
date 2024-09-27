@@ -15,15 +15,15 @@ Many buttons don’t meet minimum contrast requirements (minimum recommended for
 
 When focused, certain `select` elements "zoom in", partially obscuring the text.
 
-https://drive.google.com/file/d/1utbkfTrTF4i_hb8zGRjAEbeNcH8vPX7i/view?usp=sharing
+![1.gif](./UI%20Feedback%20Attachments/1.gif)
 
-https://drive.google.com/file/d/1fMp42wve1-5xJy2x6Apz5t3rNhzucTok/view?usp=sharing
+![2.gif](./UI%20Feedback%20Attachments/2.gif)
 
 *Inconsistent drop down appearance and behaviour*
 
 There are two kinds of drop down menus here that look and behave differently. Violates "principle of least surprise."
 
-https://drive.google.com/file/d/1taBEVzALiCcaRMnfYSvA7CMOJ4Z0_h9J/view?usp=sharing
+![3.gif](./UI%20Feedback%20Attachments/3.gif)
 
 *Labels and form controls out of alignment*
 
@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1taBEVzALiCcaRMnfYSvA7CMOJ4Z0_h9J/view?usp=shari
 
 *Drop down menu cut off when table has too few elements*
 
-https://drive.google.com/file/d/1BJfupDrI1Khu0pDyeHl3sEUeF7uSnwTo/view?usp=sharing
+![4.gif](./UI%20Feedback%20Attachments/4.gif)
 
 *Unclear UI state*
 
@@ -45,13 +45,13 @@ Also, I think "View Incompleted Tasks" is a little awkward. A better label might
 
 Pressing "View Task" opens the task to be edited, and there isn't a "Cancel" or go back button. Confusing behaviour given the original button's name.
 
-https://drive.google.com/file/d/1MifdSUonsseD52bEYUTReNxz2I7H6LSt/view?usp=sharing
+![5.gif](./UI%20Feedback%20Attachments/5.gif)
 
 *Changing default behaviour of textarea*
 
 The small size change when the textarea is focused is strange to me. More importantly, the default resize behaviour of HTML textareas (controlled by clicking and holding on the button right corner on the input) is being reimplemented in client side JS — resulting in a much slower version of the behaviour HTML gives you for free!
 
-https://drive.google.com/file/d/1dZoTkVw9_uROh3SzXFPNkSxZbhMj8pjX/view?usp=sharing
+![6.gif](./UI%20Feedback%20Attachments/6.gif)
 
 *Creative Dashboard*
 
